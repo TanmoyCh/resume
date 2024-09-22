@@ -8,3 +8,8 @@
 
 **Masters:** MSc. in Geospatial Technologies, WWU
 
+
+## Research Interests
+
+Geospatial Applications in Urbanization and Crop/Forest Ecology
+
